@@ -147,10 +147,9 @@ Future enhancements for this project:
 
 ## 👤 Author
 
-**Anurag Patil**
-
-- 🔗 GitHub: https://github.com/Anurag-Patil-Git  
-- 🔗 LinkedIn: https://www.linkedin.com/in/anurag-patil-1009  
+**Vaibhav Umbarkar**
+ 
+- 🔗 LinkedIn: www.linkedin.com/in/vaibhav-umbarkar-023667324  
 
 ---
 
